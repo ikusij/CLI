@@ -1,0 +1,63 @@
+{
+    "LOS ANGELES FC VS NEW YORK RED BULLS (2:00 PM)": {
+        "90 MINUTES": {
+            "LOS ANGELES FC": -108,
+            "DRAW": 265,
+            "NEW YORK RED BULLS": 290
+        }, "HANDICAP BETTING": {
+            "LOS ANGELES FC -0.5": -120,
+            "NEW YORK RED BULLS +0.5": -110
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -140,
+            "UNDER 2.5": 110
+        }, "1ST HALF BETTING": {
+            "LOS ANGELES FC": 155,
+            "DRAW": 112,
+            "NEW YORK RED BULLS": 280
+        }, "2ND HALF BETTING": {
+            "LOS ANGELES FC": 124,
+            "DRAW": 145,
+            "NEW YORK RED BULLS": 270
+        }
+    }, "PHILADELPHIA UNION VS NEW YORK CITY FC (4:00 PM)": {
+        "90 MINUTES": {
+            "PHILADELPHIA UNION": 160,
+            "DRAW": 230,
+            "NEW YORK CITY FC": 175
+        }, "HANDICAP BETTING": {
+            "PHILADELPHIA UNION -0.5": 140,
+            "NEW YORK CITY FC +0.5": -170
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -110,
+            "UNDER 2.5": -120
+        }, "1ST HALF BETTING": {
+            "PHILADELPHIA UNION": 215,
+            "DRAW": -102,
+            "NEW YORK CITY FC": 230
+        }, "2ND HALF BETTING": {
+            "PHILADELPHIA UNION": 165,
+            "DRAW": 140,
+            "NEW YORK CITY FC": 220
+        }
+    }, "VANCOUVER WHITECAPS VS NEW ENGLAND REVOLUTION (7:00 PM)": {
+        "90 MINUTES": {
+            "VANCOUVER WHITECAPS": 150,
+            "DRAW": 255,
+            "NEW ENGLAND REVOLUTION": 170
+        }, "HANDICAP BETTING": {
+            "VANCOUVER WHITECAPS -0.5": 155,
+            "NEW ENGLAND REVOLUTION +0.5": -190
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -140,
+            "UNDER 2.5": 110
+        }, "1ST HALF BETTING": {
+            "VANCOUVER WHITECAPS": 205,
+            "DRAW": 110,
+            "NEW ENGLAND REVOLUTION": 210
+        }, "2ND HALF BETTING": {
+            "VANCOUVER WHITECAPS": 165,
+            "DRAW": 145,
+            "NEW ENGLAND REVOLUTION": 195
+        }
+    }
+}

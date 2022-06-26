@@ -1,0 +1,36 @@
+{
+    "HOUSTON ASTROS AT NEW YORK YANKEES (6:05 PM)": {
+        "MONEY LINE": {
+            "HOUSTON ASTROS": 105,
+            "NEW YORK YANKEES": -125
+        }, "RUN LINE": {
+            "HOUSTON ASTROS +1.5": -175,
+            "NEW YORK YANKEES -1.5": 150
+        }, "TOTAL RUNS": {
+            "OVER 8.0": -115,
+            "UNDER 8.0": -105
+        }
+    }, "BALTIMORE ORIOLES AT CHICAGO WHITE SOX (7:10 PM)": {
+        "MONEY LINE": {
+            "BALTIMORE ORIOLES": 140,
+            "CHICAGO WHITE SOX": -160
+        }, "RUN LINE": {
+            "BALTIMORE ORIOLES +1.5": -145,
+            "CHICAGO WHITE SOX -1.5": 125
+        }, "TOTAL RUNS": {
+            "OVER 9.0": 100,
+            "UNDER 9.0": -120
+        }
+    }, "PHILADELPHIA PHILLIES AT SAN DIEGO PADRES (8:40 PM)": {
+        "MONEY LINE": {
+            "PHILADELPHIA PHILLIES": 150,
+            "SAN DIEGO PADRES": -170
+        }, "RUN LINE": {
+            "PHILADELPHIA PHILLIES +1.5": -160,
+            "SAN DIEGO PADRES -1.5": 140
+        }, "TOTAL RUNS": {
+            "OVER 7.0": -120,
+            "UNDER 7.0": 100
+        }
+    }
+}

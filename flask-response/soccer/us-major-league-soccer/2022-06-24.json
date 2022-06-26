@@ -1,0 +1,23 @@
+{
+    "FC CINCINNATI VS ORLANDO CITY (6:30 PM)": {
+        "90 MINUTES": {
+            "FC CINCINNATI": 127,
+            "DRAW": 255,
+            "ORLANDO CITY": 205
+        }, "HANDICAP BETTING": {
+            "FC CINCINNATI -0.5": 120,
+            "ORLANDO CITY +0.5": -150
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -140,
+            "UNDER 2.5": 110
+        }, "1ST HALF BETTING": {
+            "FC CINCINNATI": 175,
+            "DRAW": 106,
+            "ORLANDO CITY": 260
+        }, "2ND HALF BETTING": {
+            "FC CINCINNATI": 150,
+            "DRAW": 135,
+            "ORLANDO CITY": 230
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "SEATTLE SOUNDERS VS SPORTING KANSAS CITY (2:00 PM)": {
+        "90 MINUTES": {
+            "SEATTLE SOUNDERS": -135,
+            "DRAW": 275,
+            "SPORTING KANSAS CITY": 370
+        }, "HANDICAP BETTING": {
+            "SEATTLE SOUNDERS -0.5": -130,
+            "SPORTING KANSAS CITY +0.5": 100
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -120,
+            "UNDER 2.5": -110
+        }, "1ST HALF BETTING": {
+            "SEATTLE SOUNDERS": 127,
+            "DRAW": 113,
+            "SPORTING KANSAS CITY": 360
+        }, "2ND HALF BETTING": {
+            "SEATTLE SOUNDERS": 106,
+            "DRAW": 140,
+            "SPORTING KANSAS CITY": 350
+        }
+    }, "D.C. UNITED VS NASHVILLE SC (4:00 PM)": {
+        "90 MINUTES": {
+            "D.C. UNITED": 135,
+            "DRAW": 235,
+            "NASHVILLE SC": 205
+        }, "HANDICAP BETTING": {
+            "D.C. UNITED -0.5": 130,
+            "NASHVILLE SC +0.5": -160
+        }, "TOTAL GOALS": {
+            "OVER 2.5": 100,
+            "UNDER 2.5": -130
+        }, "1ST HALF BETTING": {
+            "D.C. UNITED": 185,
+            "DRAW": 101,
+            "NASHVILLE SC": 260
+        }, "2ND HALF BETTING": {
+            "D.C. UNITED": 165,
+            "DRAW": 130,
+            "NASHVILLE SC": 220
+        }
+    }, "TORONTO FC VS ATLANTA UTD (6:30 PM)": {
+        "90 MINUTES": {
+            "TORONTO FC": 210,
+            "DRAW": 265,
+            "ATLANTA UTD": 120
+        }, "HANDICAP BETTING": {
+            "TORONTO FC -0.5": -150,
+            "ATLANTA UTD +0.5": 120
+        }, "TOTAL GOALS": {
+            "OVER 2.5": -150,
+            "UNDER 2.5": 120
+        }, "1ST HALF BETTING": {
+            "TORONTO FC": 250,
+            "DRAW": 112,
+            "ATLANTA UTD": 170
+        }, "2ND HALF BETTING": {
+            "TORONTO FC": 220,
+            "DRAW": 145,
+            "ATLANTA UTD": 145
+        }
+    }
+}
